@@ -8,8 +8,6 @@ Welcome to the Minesweeper game! This classic game challenges you to uncover all
 - [Gameplay](#gameplay)
 - [Features](#features)
 - [Levels of Difficulty](#levels-of-difficulty)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
